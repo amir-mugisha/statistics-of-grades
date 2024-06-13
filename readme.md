@@ -1,2 +1,2 @@
 ### Example output:
-![Example output]('https://asset.cloudinary.com/duvzjjfba/0072313831eca2274bb9209a14f58811')
+![Example output](https://res.cloudinary.com/duvzjjfba/image/upload/v1718285759/output_hrgrrh.png)
